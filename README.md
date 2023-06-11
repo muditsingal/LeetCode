@@ -2,4 +2,4 @@
 
 1. **Palindrome_simple** has the solution to check if a number is palindrome or not. The solutions include C++ and python codes by checking using string conversions and by checking numbers.
 2. **two_sum** has the solution to return the indices of elements in an array that sum up to a target number. The solution includes C++ and python codes that use 2 for loops and another approach that uses hash maps.
-
+3. **merge_sorted_lists** has the solution to merge 2 sorted lists using linked lists and pointers to linked lists. Returns the pointer to the head of the newly created linked list of the merged input lists. The solution includes C++ and python codes that use linked lists using structure and classes respectively.
