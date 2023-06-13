@@ -27,7 +27,6 @@ public:
                 if(row_cntr == n)
                 {
                     pairs += 1;
-                    break;
                 }  
             }
             
