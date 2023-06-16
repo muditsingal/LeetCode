@@ -9,3 +9,6 @@
 4. **ranges_sorted_array** has the solution to find continuous ranges of integers in a sorted array of integers. The solution includes both C++ and python codes that use vectors and lists respectively.
 5. **eq_row_col_pairs** has the solution to find number of pairs with equal rows and columns in a 2D array. The solution includes both C++ and python codes. C++ code uses vectors and python code uses numpy array and operations.
 6. **530_min_node_diff** has the solution to find the minimum difference between 2 nodes in a Binary search tree. Problem number 530 in leet code. The solution includes both C++ and python codes. C++ code uses linked lists and STL stack and python code uses a node class and stack using lists.
+7. **141_linked_list_cycle** has the solution to find if a linked list has a loop in it. Problem number 141 in Leet Code. The solution uses 2 pointers. One pointer is incremented by one and the other is incremented by 2 at each iteration. The solution includes both C++ and python codes. C++ code uses pointers to linked list and python uses objects of linked list class. 
+    - `Time complexity: O(n)`
+    - `Space complexity: O(1)`
