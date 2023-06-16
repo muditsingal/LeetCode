@@ -11,9 +11,6 @@ public:
     bool hasCycle(ListNode *head) {
         if (head == NULL)
             return false;
-            
-        else if (head->next == NULL)
-            return false;
 
         bool hasCycle = false;
         ListNode* ptr;
