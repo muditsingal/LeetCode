@@ -12,3 +12,4 @@
 7. **141_linked_list_cycle** has the solution to find if a linked list has a loop in it. Problem number 141 in Leet Code. The solution uses 2 pointers. One pointer is incremented by one and the other is incremented by 2 at each iteration. The solution includes both C++ and python codes. C++ code uses pointers to linked list and python uses objects of linked list class. 
     - `Time complexity: O(n)`
     - `Space complexity: O(1)`
+8. **1732_highest_altitude** has the solution to find the maximum altitude based on incremental altitude changes represented in an array. The solution uses a max variable to store the all-time highest altitude and a curr variable that stores the current cumulative altitude. The solution contains both C++ and python codes.
