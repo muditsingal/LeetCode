@@ -13,4 +13,5 @@
     - `Time complexity: O(n)`
     - `Space complexity: O(1)`
 8. **1732_highest_altitude** has the solution to find the maximum altitude based on incremental altitude changes represented in an array. The solution uses a max variable to store the all-time highest altitude and a curr variable that stores the current cumulative altitude. The solution contains both C++ and python codes.
-9. **144_preorder_BST** has the solution to perform pre-order traversal of a Binary Search TREE(BST). The solution uses a recursion. The solution contains both C++ and python codes.
+9. **144_preorder_BST** has the solution to perform pre-order traversal of a Binary Search TREE(BST). The solution uses recursion. The solution contains both C++ and python codes.
+10. **145_postorder_BST** has the solution to perform post-order traversal of a Binary Search TREE(BST). The solution uses recursion and contains both C++ and python codes.
