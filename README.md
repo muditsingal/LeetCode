@@ -18,3 +18,6 @@
 11. **2090_k_radius_arr_avg** has the solution to find the moving averages of subarray (with radius r) from a main array. The solution uses a single _for_ loop.Solution contains both C++ and python codes.
     - `Time complexity: O(n)`
     - `Space complexity: O(n)`
+12. **1027_longest_arith_seq** has the solution to the problem 1027 of Leet Code. It finds the length of longest sequence in an array with constant subtractive difference. It uses dynamic programming and python.
+    - `Time complexity: O(n^2)`
+    - `Space complexity: O(n^2)`
