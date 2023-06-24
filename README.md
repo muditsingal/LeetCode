@@ -21,3 +21,4 @@
 12. **1027_longest_arith_seq** has the solution to the problem 1027 of Leet Code. It finds the length of longest sequence in an array with constant subtractive difference. It uses dynamic programming and python.
     - `Time complexity: O(n^2)`
     - `Space complexity: O(n^2)`
+13. **404_sum_of_left_leaves** has the solution to problem 404: Sum of Left Leaves, which finds the sum of all values of left leaf nodes of a given Binary tree. The solution includes both C++ and python codes. C++ code uses pointers to linked list and python uses objects of linked list class.
