@@ -23,3 +23,4 @@
     - `Space complexity: O(n^2)`
 13. **404_sum_of_left_leaves** has the solution to problem 404: Sum of Left Leaves, which finds the sum of all values of left leaf nodes of a given Binary tree. The solution includes both C++ and python codes. C++ code uses pointers to linked list and python uses objects of linked list class.
 14. **66_plus_one** has the solution to problem 66: plus one, which adds one to a long integer represented as an array. The solution uses one for loop to iterate through the number. Includes both C++ and python codes.
+15. **1779_find_nearest_valid_pt** has the solution to problem 1779: Find nearest point with same x or y, which returns the index of the point which has the same x or y coordinate as the input point and has the minimum manhattan distance from input point. Includes both C++ and python codes.
