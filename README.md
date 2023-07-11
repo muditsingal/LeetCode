@@ -25,3 +25,6 @@
 14. **66_plus_one** has the solution to problem 66: plus one, which adds one to a long integer represented as an array. The solution uses one for loop to iterate through the number. Includes both C++ and python codes.
 15. **1779_find_nearest_valid_pt** has the solution to problem 1779: Find nearest point with same x or y, which returns the index of the point which has the same x or y coordinate as the input point and has the minimum manhattan distance from input point. Includes both C++ and python codes.
 16. **373_find_K_pairs_with_smallest_sums** has the python solution to problem 373: Find K pairs of integers from 2 given sorted lists, which returns the list of integer pairs in ascending order of their sum.
+17. **859_buddy_strings** has the C++ and python colution to problem 859: Buddy string. The solution uses a single loop that swaps the first matching pair in the 2 input strings and then checks for equality.
+    - `Time complexity: O(n)`
+    - `Space complexity: O(1)`
