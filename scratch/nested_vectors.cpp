@@ -16,7 +16,7 @@ int main()
     // cout << abs(-2);
     // int a = INT_MAX;// numeric_limits<int>::max();
     vector<int> hh = {1,2,3};
-    cout << hh[5];
+    cout << hh[1];
 
     // cout << INT_MIN;
 
